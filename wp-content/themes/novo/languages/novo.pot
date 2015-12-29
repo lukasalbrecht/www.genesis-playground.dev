@@ -1,0 +1,620 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Novo Genesis Child Theme\n"
+"POT-Creation-Date: 2015-09-21 15:45+0800\n"
+"PO-Revision-Date: 2015-09-21 15:45+0800\n"
+"Last-Translator: Joe Mar Aparecio <joe@zigzagpress.com>\n"
+"Language-Team: zigzagpress <joe@zigzagpress.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: D:\\zp_theme_files\\themes\\novo"
+"\\v1.2\\novo_theme_package_v1_2\\novo\n"
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/404.php:35
+msgid "404 - Page Not Found!"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/404.php:36
+msgid ""
+"You're looking for a page that does not exist! Please try the navigations "
+"above.."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/functions.php:238
+msgid "Read More"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/functions.php:244
+msgid "Categories"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/functions.php:244
+msgid "Tags"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/functions.php:259
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/functions.php:260
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/functions.php:261
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/functions.php:262
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/functions.php:264
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/functions.php:265
+msgid "Archives for "
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/functions.php:263
+msgid "Search for "
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/functions.php:266
+msgid "404"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/functions.php:370
+msgid ""
+"This is the widget area at the bottom of the page right of footer credits."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/functions.php:432
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/shortcodes/shortcode.php:15
+msgid "Like this post"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/functions.php:447
+msgid "You liked this post"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/functions.php:476
+msgid "Top of Page"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:35
+msgid "Video Type"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:35
+msgid "Select appropriate video type"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:36
+msgid "Video ID"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:36
+msgid "Enter video ID. Example: VdvEdMMtNMY"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:37
+msgid "Slide Button"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:37
+msgid "Enter Button Name"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:38
+msgid "Slide Link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:38
+msgid "Put slide link here"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:46
+msgid "Define slide order. Ex. 1,2,3,4,..."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:54
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:189
+msgid "Title"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:55
+msgid "Slideshow"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:56
+msgid "Slide Order"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:57
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:195
+msgid "Date"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:69
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:219
+msgid "Unable to get author(s)"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:122
+msgid "Project Label"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:122
+msgid "Define project label"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:124
+msgid "Project Link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:124
+msgid "Define project link"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:142
+msgid "Image 1"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:142
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:144
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:146
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:148
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:150
+msgid "Place here the full image path"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:144
+msgid "Image 2"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:146
+msgid "Image 3"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:148
+msgid "Image 4"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:150
+msgid "Image 5"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:168
+msgid "Youtube or Vimeo URL"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:168
+msgid ""
+"Place here the video url. Example video url: YOUTUBE: http://www.youtube.com/"
+"watch?v=Sv5iEK-IEzw and VIMEO: http://vimeo.com/7585127"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:170
+msgid "Embed Code"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:170
+msgid ""
+"If you are using anything else other than YouTube or Vimeo, paste the embed "
+"code here. This field will override anything from the above."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:191
+msgid "Portfolio Category"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:193
+msgid "Author"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:248
+msgid "Audio .mp3 URL"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:248
+msgid "The URL to the .mp3 audio file"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:249
+msgid "Audio .ogg, .oga URL"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:249
+msgid "The URL to the .oga, .ogg audio file"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:250
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:282
+msgid "Preview Image"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:250
+msgid "The preview image for this audio track"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:251
+msgid "Preview Image Height"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:251
+msgid "The height of the poster image. Example: 300"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:265
+msgid "Enter link.  E.g., http://www.yourlink.com"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:265
+msgid "Input your link. e.g., http://www.yourlink.com"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:279
+msgid "Video File (.m4v)"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:279
+msgid "The URL to the .m4v video file"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:280
+msgid "Video File (.ogv)"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:280
+msgid "The URL to the .ogv video file"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:281
+msgid "Video Height"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:281
+msgid "The video height (e.g. 500)."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:282
+msgid "The preview image for this video."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:283
+msgid "Embed Video"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/cpt/zp_cpt.php:283
+msgid ""
+"If you are using something other than self hosted video such as Youtube or "
+"Vimeo, paste the embed code here. Width is best at 600px with any height. "
+"This field will override the above."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_functions.php:51
+msgid "show all"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_functions.php:520
+msgid "No related projects."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_functions.php:811
+msgid "No Comments"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_functions.php:813
+msgid " Comments"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_functions.php:815
+msgid "1 Comment"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:13
+msgid "This is the welcome message section"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:22
+msgid "Related Portfolio"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:92
+msgid "Settings reset."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:94
+msgid "Settings saved."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:144
+msgid "Appearance Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:145
+msgid "Portfolio Settings "
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:146
+msgid "Footer Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:147
+msgid "Responsive Logo Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:159
+msgid "Select color scheme."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:188
+msgid "Custom CSS Code."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:194
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:275
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:308
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:341
+msgid "Upload Custom Logo."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:196
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:277
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:310
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:343
+msgid "Upload Logo"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:197
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:278
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:311
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:344
+msgid "Remove Logo"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:205
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:287
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:321
+msgid "Custom Logo Height in pixel/percentage."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:208
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:284
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:318
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:351
+msgid "Custom Logo Width in pixel/percentage."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:211
+msgid "Select Logo Position."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:226
+msgid "This is the appearance settings."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:230
+msgid "Footer Text"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:232
+msgid "Enter your site copyright here."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:238
+msgid "Check to enable related portfolio in single portfolio page."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:241
+msgid "Related Portfolio Title"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:244
+msgid "Number of items in the portfolio page"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:246
+msgid "Number of items in the portfolio archive"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:249
+msgid "Portfolio Archive Columns:"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:254
+msgid "Portfolio Animations:"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:268
+msgid "This settings applies to portfolio."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:272
+msgid "600 Max Width Logo"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:291
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:324
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:358
+msgid "Select Background Position."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:306
+msgid "480 Max Width Logo"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:339
+msgid "320 Max Width Logo"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:354
+msgid "Custom Logo Height in pixel/percentage. "
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:378
+msgid "Insert Image!"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:426
+msgid "Novo Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:427
+msgid "Save Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:428
+msgid "Reset Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/theme_settings.php:428
+msgid "Are you sure you want to reset?"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-address.php:32
+msgid "A widget that addresss your contact information."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-address.php:35
+msgid "ZP Contact Widget"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-address.php:118
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-flickr.php:118
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-latest_portfolio.php:119
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:205
+msgid "Title:"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-address.php:123
+msgid "Telephone:"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-address.php:128
+msgid "Fax:"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-address.php:133
+msgid "Email:"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-address.php:138
+msgid "Address:"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-address.php:143
+msgid "Skype:"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-flickr.php:32
+msgid "A widget that displays your Flickr photos."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-flickr.php:38
+msgid "ZP Flickr Photos"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-flickr.php:124
+msgid "Flickr ID:"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-flickr.php:130
+msgid "Number of Photos:"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-flickr.php:140
+msgid "Type (user or group):"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-flickr.php:149
+msgid "Display (random or latest):"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-latest_portfolio.php:26
+msgid "A widget that displays your latest portfolio photos."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-latest_portfolio.php:29
+msgid "ZP Latest Portfolio"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-latest_portfolio.php:125
+msgid "Number of Posts"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:85
+msgid "Dribble URI"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:93
+msgid "Behance URI"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:100
+msgid "Facebook URI"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:107
+msgid "Google+ URI"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:114
+msgid "Linkedin URI"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:121
+msgid "DeviantART URI"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:128
+msgid "Twitter URI"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:135
+msgid "Vimeo URI"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:142
+msgid "Pinterest URI"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:149
+msgid "Flickr URI"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:156
+msgid "Tumblr URI"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:163
+msgid "YouTube URI"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:174
+msgid "Displays select social icons."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:183
+msgid "ZP Social Icons"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:210
+msgid "Alignment"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:212
+msgid "Align Left"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/include/widgets/widget-social_icons.php:213
+msgid "Align Right"
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/single-portfolio.php:76
+msgid ""
+"Sorry that seems to be an invalid <strong>YouTube</strong> URL. Please check "
+"it again."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/single-portfolio.php:88
+msgid ""
+"Sorry that seems to be an invalid <strong>Vimeo</strong> URL. Please check "
+"it again. Make sure there is a string of numbers at the end."
+msgstr ""
+
+#: D:\zp_theme_files\themes\novo\v1.2\novo_theme_package_v1_2\novo/single-portfolio.php:94
+msgid "Sorry that is an invalid YouTube or Vimeo URL."
+msgstr ""
